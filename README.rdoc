@@ -1,6 +1,6 @@
-=chess
+=aslib
 
-Actionscript 3.0 library. Content loaders, pre-loaders, button controllers, menu controllers, and simple/ smooth scrollbar classes.
+Actionscript 3.0 library.
 
 == Package
 * {Imports/}[https://github.com/Arwid/aslib/tree/master/Imports]
