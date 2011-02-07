@@ -1,0 +1,31 @@
+=chess
+
+Actionscript 3.0 library. Content loaders, pre-loaders, button controllers, menu controllers, and simple/ smooth scrollbar classes.
+
+== Package
+* {Imports/}[https://github.com/Arwid/aslib/tree/master/Imports]
+  * {aslib}[https://github.com/Arwid/aslib/tree/master/Imports/aslib]
+    * {cloader}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/cloader]
+      * {ContentLoader.as}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/cloader/ContentLoader.as]
+      * {PreLoader.as}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/cloader/PreLoader.as]
+    * {events}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/events]
+      * {ButtonEvent.as}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/events/ButtonEvent.as]
+      * {ScrollBarEvent.as}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/events/ScrollBarEvent.as]
+      * {ScrollTrackEvent.as}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/events/ScrollTrackEvent.as]
+    * {util}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/util]
+      * {StringUtilities.as}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/util/StringUtilities.as]
+    * {MenuController.as}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/MenuController.as]
+    * {ButtonController.as}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/ButtonController.as]
+    * {ButtonPageController.as}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/ButtonPageController.as]
+    * {ScrollTrack.as}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/ScrollTrack.as]
+    * {ScrollBarController.as}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/ScrollBarController.as]
+    * {SimpleScrollBarController.as}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/SimpleScrollBarController.as]
+    * {SmoothScrollBarController.as}[https://github.com/Arwid/aslib/tree/master/Imports/aslib/SmoothScrollBarController.as]
+
+== Copyright
+
+Copyright © 2011 Arwid Bancewicz
+
+GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
+
+See {LICENSE}[https://github.com/Arwid/aslib/blob/master/LICENSE] for details.
