@@ -1,6 +1,10 @@
 =aslib
 
-Actionscript 3.0 library.
+author:: Arwid Bancewicz http://arwid.ca
+version:: 1.0
+updated:: x x 2007
+
+An Actionscript 3.0 library containing loaders as well as menu, button, and scrollbar controllers.
 
 == Package
 * {Imports/}[https://github.com/Arwid/aslib/tree/master/Imports]
